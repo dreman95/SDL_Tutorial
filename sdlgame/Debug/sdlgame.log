@@ -1,0 +1,5 @@
+﻿  RPGGame.cpp
+c:\users\andre\source\repos\rpggame\rpggame\rpggame.cpp(110): warning C4778: 'printf' : unterminated format string '%\n'
+c:\users\andre\source\repos\rpggame\rpggame\rpggame.cpp(110): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\andre\source\repos\rpggame\rpggame\rpggame.cpp(110): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  sdlgame.vcxproj -> C:\Users\Andre\Source\Repos\sdlgame\Debug\sdlgame.exe
